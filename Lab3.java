@@ -1,8 +1,8 @@
 import java.util.Scanner;
 import java.util.regex.*;
 
-public class Lab4 {
-    public Lab4() {
+public class Lab3 {
+    public Lab3() {
     }
 
     public static void main(String[] args) {
